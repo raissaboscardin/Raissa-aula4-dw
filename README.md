@@ -26,4 +26,29 @@
 *Em seguida, faça o push
 *Obs:* O git pushcomando leva dois argumentos: um nome remoto, por exemplo,origin e um nome de filial, por exemplo,main. Você normalmente executa git push origin mainpara enviar as alterações locais ao seu repositório online.
 
-*E assim finalizamos nossa aula!*
+*Passo 5:* Criando uma nova Branch
+
+*No GitHub Desktop, clique em "branch", depois em "Nova branch" e nomei de acordo com sua vontade
+*No Visual Studio CODE abra um novo arquivo para poder testar a branch
+*No GitHub Desktop adicione um título uma descrição e dê um "commit"
+
+
+*Passo 6:* Criando um Main
+-
+*No GitHub Desktop selecione "branch" e substitua por "main" novamente
+*No Visual Studio crie um segundo arquivo para teste
+*No GitHub Desktop adicione um título uma descrição e dê um "commit"
+
+*OBS.:* Todas as alterações feitas dentro dos arquivos podem ser vistas no GitHub Desktop (Lembre-se de ativar o Auto Save)
+*OBS. 2:* Os arquivos criados em "branch" e "main" são diferentes e não poderão ser acessados quando main e branch estiverem selecionados respectivamente.
+
+*Passo 7:* Mesclagem
+
+*Ainda no GitHub Desktop, clique em branch novamente e selecione "Mesclar no branch atual"
+
+*OBS. 3:* Esse é o jeito do Git de unificar um histórico bifurcado
+*OBS. 4:* Caso a mesclagem não funcione você pode dar um "Rebase da ramificação atual"
+
+*Passo 8:* Deletando uma branch
+
+*No GitHub Desktop selecione a branch que deseja apagar e clique em "deletar"
