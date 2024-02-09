@@ -16,7 +16,7 @@
 
 * Abra o aplicativo do Visual Studio e clique em "File"
 * Selecione "Open Folder" e selecione a pasta do seu repositório
-* Abra um novo arquivo selecionando "New file", nomeie como "README.md" e4 adicione conteúdo a ele
+* Abra um novo arquivo selecionando "New file", nomeie como "README.md" e adicione conteúdo a ele
 
 **Passo 4:** Alterações no GitHub Desktop.
 
