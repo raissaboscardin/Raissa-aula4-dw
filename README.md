@@ -23,10 +23,10 @@
 * Abra o GitHub Desktop
 * Adicione um nome e uma descrição e selecione commit
 
-**Obs:** um commit registra alterações em um ou mais arquivos em sua ramificação. O Git atribui a cada commit um ID exclusivo, chamado SHA ou hash, que identifica: as mudanças específicas, quando as mudanças foram feitas e quem criou as mudanças.
+**OBS:** um commit registra alterações em um ou mais arquivos em sua ramificação. O Git atribui a cada commit um ID exclusivo, chamado SHA ou hash, que identifica: as mudanças específicas, quando as mudanças foram feitas e quem criou as mudanças.
 * Em seguida, faça o push
 
-**Obs:** O git pushcomando leva dois argumentos: um nome remoto, por exemplo,origin e um nome de filial, por exemplo,main. Você normalmente executa git push origin mainpara enviar as alterações locais ao seu repositório online.
+**OBS:** O git pushcomando leva dois argumentos: um nome remoto, por exemplo,origin e um nome de filial, por exemplo,main. Você normalmente executa git push origin mainpara enviar as alterações locais ao seu repositório online.
 
 **Passo 5:** Criando uma nova Branch.
 
